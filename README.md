@@ -80,10 +80,6 @@ The ordering follows a **provisional, scenario-based validation-cost ranking**, 
 4. Set the group identifier to `G` in the submission export code.
 5. Check that each exported CSV has the required two columns and 4,749 rows before uploading the five CSVs individually to Canvas.
 
-### Notebook and code links
-
-- Google Colab: **[Add your shareable notebook link]**
-- GitHub repository (if used): **[Add your repository link]**
 
 ## Responsible interpretation
 
